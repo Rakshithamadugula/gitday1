@@ -7,4 +7,8 @@ public class GitCommands {
 System.out.println("rakshitha working");
 	}
 
+	public void m2()
+	{
+		System.out.println("execute the second method");
+	}
 }
