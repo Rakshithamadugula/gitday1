@@ -7,8 +7,13 @@ public class GitCommands {
 System.out.println("rakshitha working");//from b11 branch
 	}
 
-	public void m2()
-	{
-		System.out.println("execute the second method");
-	}
+//from the b1 branch
+ public void m1()
+{
+	System.out.println("test);
 }
+	
+
+	}
+
+
